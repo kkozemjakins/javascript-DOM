@@ -6,6 +6,6 @@
 
 > How did you go about hiding elements initially?
 
-Pretty simply, within their tag I added the style attribute and set it to display:none.
+Diezgan vienkārši, to tagā es pievienoju stila atribūtu un iestatīju, lai tas tiek parādīts: nav.
 
 ---
