@@ -9,7 +9,7 @@ window.onload = function() {
       //Identify the text to be hidden
       var textToHide = document.getElementsByClassName("hide_me");
     
-      for (var i = 0; i < textToHide.length; i++) {
+      for (var i = 0; i < 2; i++) {
           textToHide[i].style.display = "none";
       }
     
